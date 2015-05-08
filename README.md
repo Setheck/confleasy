@@ -1,5 +1,7 @@
 Confleasy
 =========
+[![Build Status](https://travis-ci.org/Setheck/confleasy.svg)](https://travis-ci.org/Setheck/confleasy)
+[![Codacy Badge](https://www.codacy.com/project/badge/861e49d54b5c41119b8fb685539a93b7)](https://www.codacy.com/app/Setheck/confleasy)
 
 Summary
 -------
