@@ -1,4 +1,3 @@
-
 {
   "name": "confleasy",
   "version": "0.0.1",
@@ -11,11 +10,11 @@
   "scripts": {
     "test": "grunt test"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/Setheck/confleasy"
   },
-  "keywords":[
+  "keywords": [
     "jira",
     "jira-wiki",
     "atlassian",
@@ -28,7 +27,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-
+    "lodash": "^3.8.0",
+    "request": "^2.55.0"
   },
   "devDependencies": {
     "grunt-contrib-concat": "^0.5.0",
@@ -37,6 +37,8 @@
     "grunt-contrib-uglify": "^0.6.0",
     "grunt-contrib-watch": "^0.6.1"
   },
-  "files": [ "lib/confleasy.js" ],
+  "files": [
+    "lib/confleasy.js"
+  ],
   "main": "./lib/confleasy.js"
 }
